@@ -49,9 +49,7 @@ input {
     border-radius: 5px;
     color: #fff
 }
-input:placeholder-shown {
-    color: rgba(255, 255, 255, 0.7);
-}
+input:placeholder-shown { color: rgba(255, 255, 255, 0.7); }
 input::placeholder {
     color: rgba(255, 255, 255, 0.5);
 }
